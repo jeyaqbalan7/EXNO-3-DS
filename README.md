@@ -1,4 +1,4 @@
-# EXP-03-FEATURE-ENCODING-AND-TRANSFORMATION-PROCESS
+# EXP-03-FEATURE-ENCODING-AND-TRANSFORMATION
 # AIM:
 To read the given data and perform Feature Encoding and Transformation process and save the data to a file.
 
